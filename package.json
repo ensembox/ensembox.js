@@ -1,22 +1,22 @@
 {
-  "name": "ensembox",
-  "version": "0.0.1",
-  "description": "The official Node API client for Ensembox.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ensembox/ensembox.git"
-  },
-  "keywords": [
-    "ensembox"
-  ],
-  "author": "Abdul",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ensembox/ensembox/issues"
-  },
-  "homepage": "https://github.com/ensembox/ensembox#readme"
+	"name": "ensembox",
+	"version": "0.0.2",
+	"description": "The official Node API client for Ensembox.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ensembox/ensembox.js.git"
+	},
+	"keywords": [
+		"ensembox"
+	],
+	"author": "Abdul",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ensembox/ensembox.js/issues"
+	},
+	"homepage": "https://github.com/ensembox/ensembox.js#readme"
 }
