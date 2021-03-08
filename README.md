@@ -1,6 +1,6 @@
-**[🏠 Homepage](https://www.ensembox.com)**
-
 # Ensembox.js
+
+**[🏠 Homepage](https://www.ensembox.com)**
 
 The official Node API client for Ensembox.
 
